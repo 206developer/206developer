@@ -2,7 +2,7 @@
 
 # Hi there i'm 206 🦝
 
-Software engineer.
+A simple developer.
 
 ---
 
